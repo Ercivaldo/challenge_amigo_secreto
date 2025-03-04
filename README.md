@@ -19,9 +19,8 @@ Como Executar o Projeto
 
 Copie e cole  no navegador o seguinte endereço:
 
-https://github.com/seu-usuario/amigo-secreto.git
+[https://github.com/seu-usuario/amigo-secreto.git](https://github.com/Ercivaldo/challenge_amigo_secreto)
 
-Navegue até a pasta do projeto: challenge_amigo_secreto
 
 Abra o arquivo index.html em um navegador.
 
