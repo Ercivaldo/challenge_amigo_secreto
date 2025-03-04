@@ -1,4 +1,4 @@
-Este é um projeto de sorteio de Amigo Secreto, onde os usuários podem adicionar nomes a uma lista e realizar um sorteio aleatório.
+Este é um projeto com o objeitvo de simular o sorteio de um Amigo Secreto, onde os usuários podem adicionar nomes a uma lista e realizar o sorteio de forma aleatório.
 
 Funcionalidades
 
@@ -14,3 +14,8 @@ Tecnologias Utilizadas
 HTML para a estrutura da página.
 CSS para estilização.
 JavaScript para a lógica do sorteio e manipulação da interface.
+
+
+![01](https://github.com/user-attachments/assets/34e55fc0-219f-4954-9546-941dea4e1041)
+
+
