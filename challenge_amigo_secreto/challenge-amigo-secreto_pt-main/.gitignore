@@ -1,0 +1,11 @@
+# Ignorar pastas do ambiente virtual e dependências do Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos desnecessários
+*.log
+*.txt
+.DS_Store
